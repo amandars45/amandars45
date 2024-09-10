@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🤍
 
-<!--
-**amandars45/amandars45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Amanda Ribeiro
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou estudando no Colégio Estadual do Campo Turvo
+- Ultilizo este espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## você pode entrar em contato comigo 📫
+
+  amanda.aracewski@escola.pr.gov.br
+  
+  @amanda.xiv
+
+![](https://media1.tenor.com/m/tiXc_2-s0SUAAAAC/122.gif)
